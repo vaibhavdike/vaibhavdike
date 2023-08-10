@@ -8,10 +8,6 @@ I am currently Learning Coding
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav_dike9899) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-dike-163b84269) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VaibhavDike4) 
 
-                 <img align="right" alt="Coding" width="400"
-                 
-          src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" >
-
 
 # 💻 Tech Stack:
 
